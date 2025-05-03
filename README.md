@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/sivan22-mcp-otzaria-server-badge.png)](https://mseep.ai/app/sivan22-mcp-otzaria-server)
+
 # Jewish Library MCP Server
 
 An MCP (Model Context Protocol) server that provides powerful search capabilities for Jewish texts and literature. This server enables Large Language Models to search and reference Jewish texts through a standardized interface.
